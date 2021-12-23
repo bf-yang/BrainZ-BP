@@ -1,0 +1,6 @@
+用于处理脑阻抗的code，不采集ECG
+用于原文中discussion部分，讨论脑阻抗信号的激励频率和位置
+
+data_loading：从4461采集的数据格式转为.mat格式
+main_overlap：.mat格式的约40秒数据经过overlapping，切割为多个8s，重叠6s的片段。经人眼确认存入数据库
+main_pp：统计数据库中脑阻抗的pp值（delta Z）
