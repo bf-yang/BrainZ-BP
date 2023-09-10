@@ -1,5 +1,6 @@
 # BrainZ-BP: A non-invasive cuff-less blood pressure estimation approach leveraging brain bio-impedance and electrocardiogram
-This is a repo for the paper: " A non-invasive cuff-less blood pressure estimation approach leveraging brain bio-impedance and electrocardiogram ".
+- This is a repo for the paper: " A non-invasive cuff-less blood pressure estimation approach leveraging brain bio-impedance and electrocardiogram ".
+- This is the first open-source brain BIOZ dataset for BP estimation. We believe that this dataset will further contribute to the advancement of research in BP estimation using brain BIOZ, fostering progress in our community
 
 
 # Dataset Structure
