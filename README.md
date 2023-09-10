@@ -3,13 +3,13 @@ This is a repo for the paper: " A non-invasive cuff-less blood pressure estimati
 
 
 # Project Structure
-
+\```
 |--Data // Database for our approach BrainZ-BP  
   
 |-- Data_seg_all // all the signal segments in our experiments  
 |-- Excitation_freq // Different excitation frequency data  
     |-- anterior_posterior	// electrodes placed in anterior-posterior direction  
-        |-- 1k      // excitation fequency 1 kHz  
+        |-- 1k      // excitation frequency 1 kHz  
          |-- 2k  
          |-- ...  
          |-- 20k  
@@ -26,3 +26,4 @@ This is a repo for the paper: " A non-invasive cuff-less blood pressure estimati
    |-- s13_20211102 // subject 13 data, time:20211102   
   
 |-- README.md  
+\```
