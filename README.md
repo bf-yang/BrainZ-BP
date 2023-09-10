@@ -1,2 +1,1 @@
-# BrainZ-BP_BP_estimation
-BP estimation based on brain bio-impedance and ECG
+# BrainZ-BP: A non-invasive cuff-less blood pressure estimation approach leveraging brain bio-impedance and electrocardiogram
