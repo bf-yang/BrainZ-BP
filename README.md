@@ -1,7 +1,7 @@
 # BrainZ-BP: A non-invasive cuff-less blood pressure estimation approach leveraging brain bio-impedance and electrocardiogram
 - This is a repo for the paper: " A non-invasive cuff-less blood pressure estimation approach leveraging brain bio-impedance and electrocardiogram ".
 - This is the first open-source **brain** bio-impedance dataset (BIOZ) for blood pressure (BP) estimation. We believe that this dataset will further contribute to the advancement of research in BP estimation using brain BIOZ, fostering progress in our community
-- The database contains 1942 ECG and brain BIOZ recordings acquired from 13 subjects. Each 8-seconds recording has two labels (reference SBP and DBP). The mean values of systolic blood pressure (SBP) and diastolic blood pressure (DBP) in the database are recorded as 126.3 \bm 14.6 mmHg and 73.3 ± 10.2 mmHg, respectively.
+- The database contains 1942 ECG and brain BIOZ recordings acquired from 13 subjects. Each 8-seconds recording has two labels (reference SBP and DBP). The mean values of systolic blood pressure (SBP) and diastolic blood pressure (DBP) in the database are recorded as 126.3 $\bm$ 14.6 mmHg and 73.3 ± 10.2 mmHg, respectively.
 
 # Dataset Structure
 ```
