@@ -2,7 +2,7 @@
 This is a repo for the paper: " A non-invasive cuff-less blood pressure estimation approach leveraging brain bio-impedance and electrocardiogram ".
 
 
-# Project Structure
+# Dataset Structure
 ```
 |--Data // Database for our approach BrainZ-BP  
   
