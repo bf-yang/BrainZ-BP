@@ -6,10 +6,10 @@ This is a repo for the paper: " A non-invasive cuff-less blood pressure estimati
 
 |--Data // Database for our approach BrainZ-BP  
   
-\u0020   |-- Data_seg_all // all the signal segments in our experiments  
-\u0020   |-- Excitation_freq // Different excitation frequency data  
-      |-- anterior_posterior	// electrodes placed in anterior-posterior direction  
-         |-- 1k      // excitation fequency 1 kHz  
+|-- Data_seg_all // all the signal segments in our experiments  
+|-- Excitation_freq // Different excitation frequency data  
+    |-- anterior_posterior	// electrodes placed in anterior-posterior direction  
+        |-- 1k      // excitation fequency 1 kHz  
          |-- 2k  
          |-- ...  
          |-- 20k  
