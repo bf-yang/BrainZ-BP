@@ -1,7 +1,0 @@
-ECG和脑阻抗的数据预处理，特征提取
-
-data_prepare：从4461采集的数据格式转为.mat格式
-main_overlap：.mat格式的约40秒数据经过overlapping，切割为多个8s，重叠6s的片段。经人眼确认存入数据库
-main_subject：读入数据库中ECG和脑阻抗，特征提取，把特征和标签存成.mat，用于后续在python中血压预测。调用feature_extraction函数，提取43维特征
-signal_compute：两线法，基于vs和vr计算脑阻抗
-sort_nat：存数据时可以按自然顺序，而不是1，10，2这样。
