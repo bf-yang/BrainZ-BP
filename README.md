@@ -4,25 +4,25 @@ This is a repo for the paper: " A non-invasive cuff-less blood pressure estimati
 
 # Project Structure
 
-|--Data // Database for our approach BrainZ-BP
-
-   |-- Data_seg_all // all the signal segments in our experiments
-   |-- Excitation_freq // Different excitation frequency data
-      |-- anterior_posterior	// electrodes placed in anterior-posterior direction
-         |-- 1k      // excitation fequency 1 kHz
-         |-- 2k
-         |-- ...
-         |-- 20k
-      |-- left_right	// electrodes placed in left-right direction
-         |-- 1k
-         |-- 2k
-         |-- ...
-         |-- 20k
-   |-- s01_20211021 // subject 01 data, time:20211021
-   |-- s02_20211022 // subject 02 data, time:20211022 
-   |-- s03_20211023 // subject 03 data, time:20211023
-   |-- s04_20211024 // subject 04 data, time:20211024 
-   |-- ...
-   |-- s13_20211102 // subject 13 data, time:20211102 
-
-|-- README.md
+|--Data // Database for our approach BrainZ-BP  
+  
+   |-- Data_seg_all // all the signal segments in our experiments  
+   |-- Excitation_freq // Different excitation frequency data  
+      |-- anterior_posterior	// electrodes placed in anterior-posterior direction  
+         |-- 1k      // excitation fequency 1 kHz  
+         |-- 2k  
+         |-- ...  
+         |-- 20k  
+      |-- left_right	// electrodes placed in left-right direction  
+         |-- 1k  
+         |-- 2k  
+         |-- ...  
+         |-- 20k  
+   |-- s01_20211021 // subject 01 data, time:20211021  
+   |-- s02_20211022 // subject 02 data, time:20211022   
+   |-- s03_20211023 // subject 03 data, time:20211023  
+   |-- s04_20211024 // subject 04 data, time:20211024   
+   |-- ...  
+   |-- s13_20211102 // subject 13 data, time:20211102   
+  
+|-- README.md  
