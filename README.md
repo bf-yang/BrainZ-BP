@@ -15,7 +15,7 @@
          |-- 2k  
          |-- ...  
          |-- 20k  
-      |-- left_right	// electrodes placed in left-right direction  
+    |-- left_right	// electrodes placed in left-right direction  
          |-- 1k  
          |-- 2k  
          |-- ...  
